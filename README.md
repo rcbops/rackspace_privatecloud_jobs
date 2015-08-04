@@ -4,14 +4,12 @@ The Rackspace Private Cloud Engineering Team is looking for a range of skills
 and roles. Our team is responsible for developing and improving the Rackspace
 Private Cloud powered by OpenStack product. We are focused on using and building
 open and innovative technologies to build and maintain reliable, stable, and
-scalable private cloud installations built on OpenStack. We have folks located
-in San Antonio, Austin, the UK, Australia, as well as many remote (work from 
-home) members of the group.
+scalable private cloud installations built on OpenStack. Team members are located
+in San Antonio, Austin, the UK, Australia, and several are remote (work from 
+home).
 
-Some of the things our team is responsible for and has worked on in the
-past include starting the open source community for deploying OpenStack with
-Ansible product (RPC OpenStack), and continued contribution to the upsteam core
-OpenStack projects:
+Our team started the open source community for deploying OpenStack with
+Ansible and continues contribution to the following projects:
 
 * [OSAD / OpenStack Ansible Deployment](https://github.com/stackforge/os-ansible-deployment)
 * [RPC  / Rackspace Private Cloud OpenStack](https://github.com/rcbops/rpc-openstack)
@@ -26,16 +24,16 @@ conferences like OpenStack, PyTenessee, PyTexas, StirTrek, and other opportuniti
 * [Cutting Off the Internet: Testing Applications that Use Requests](https://www.pytennessee.org/schedule/presentation/54/)
 * [Getting Started As An OpenStack Contributor](http://stirtrek.com/Sessions#Getting-Started-As-An-OpenStack-Contributor)
 
-If you believe that a challenge such as this is for you then we want to talk to you!
-Please take a look at the repository for open jobs, we would love to hear from
+If you believe that this kind of challenge is for you, then we want to talk to you!
+Please take a look at this repository for open jobs. We would love to hear from
 you if you are interested and up to the challenge.
 
 
 ## Open Jobs:
 
 **Don't be daunted by skills / requirements: if you even know 70% of what we've
-outlined, you're welcome to apply. Our team thrives off of mentoring one another
-and growing. Of course, if you're senior - we expect you to mentor developers
+outlined, you're welcome to apply. Our team thrives on mentoring one another
+and growing. Of course, if you're senior, we expect you to mentor developers
 earlier in their careers**
 
 **Equal Employment Opportunity Policy**: Rackspace is committed to offering equal employment
@@ -56,7 +54,7 @@ orientation, veteran status, or any other legally protected characteristic.
 * [(AU) Richard Jones](mailto:richard.jones.au@rackspace.com)
 
 If you see something odd, you can also submit a pull request to fix, or file an
-issue if there's a bug!
+issue if there's a bug.
 
 
 ### Who is the "Private Cloud Development Team"?
