@@ -1,12 +1,24 @@
 # Software Developer - Openstack
 
-Be a part of history making in the cloud community with OpenStack and Rackspace Privste Cloud! OpenStack is a collection of open source technologies for running massively scalable cloud servers services.  
+Be a part of history making in the cloud community with OpenStack and Rackspace
+Private Cloud! OpenStack is a collection of open source technologies for
+controlling large pools of compute. storage, and networking resources throughout
+a datacenter all via standard and open API's. Our private cloud developers
+develop these technologies and make them accessible to customers all over the
+world. We also enable the world's foremost experts of operating OpenStack to
+manage and deploy clouds in our Customer's datacenters or ours.
 
-At Rackspace, the Managed Cloud Company, we run our entire cloud server offering on OpenStack technologies. Rackspace is committed to contributing to and helping the OpenStack community to solidify OpenStack as a well-known, widely adopted cloud infrastructure standard.
+Rackspace is committed to contributing to and helping the OpenStack community
+to solidify OpenStack as a well-known, widely adopted cloud infrastructure
+standard. As a Rackspace Private Cloud developer our motto is if it's not in the
+open it doesn't exist, so you will contribute ideas/blueprints and code to the
+RPC OpenStack product, the OpenStack Ansible Deployment community project, and
+upstream OpenStack projects. Together with Rackspace, you will help make RPC
+OpenStack the standard for enterprises and service providers to run their
+private or public cloud infrastructure.
 
-As a Rackspace Private Cloud OpenStack developer, you will contribute ideas/blueprints, and codes to the RPC OpenStack product, the OpenStack Ansible Deployment community project, and upstream OpenStack projects on behalf of Rackspace. Together with Rackspace, you will help make RPC OpenStack the standard for enterprises and service providers to run their private or public cloud infrastructure.
-
-The ideal candidates are passionate advocates of technology and open source, and have extensive systems, networking, and development experience.
+The ideal candidates are passionate advocates of technology and open source,
+and have extensive systems, networking, and development experience.
 
 ### Responsibilities:
 
