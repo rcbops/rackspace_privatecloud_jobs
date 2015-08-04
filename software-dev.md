@@ -2,16 +2,16 @@
 
 Be a part of history making in the cloud community with OpenStack and Rackspace
 Private Cloud! OpenStack is a collection of open source technologies for
-controlling large pools of compute. storage, and networking resources throughout
+controlling large pools of compute, storage, and networking resources throughout
 a datacenter all via standard and open API's. Our private cloud developers
 develop these technologies and make them accessible to customers all over the
 world. We also enable the world's foremost experts of operating OpenStack to
-manage and deploy clouds in our Customer's datacenters or ours.
+manage and deploy clouds in our customers' datacenters or ours.
 
 Rackspace is committed to contributing to and helping the OpenStack community
 to solidify OpenStack as a well-known, widely adopted cloud infrastructure
-standard. As a Rackspace Private Cloud developer our motto is if it's not in the
-open it doesn't exist, so you will contribute ideas/blueprints and code to the
+standard. As Rackspace Private Cloud developers, our motto is "if it's not in the
+open it doesn't exist", so you will contribute ideas/blueprints and code to the
 RPC OpenStack product, the OpenStack Ansible Deployment community project, and
 upstream OpenStack projects. Together with Rackspace, you will help make RPC
 OpenStack the standard for enterprises and service providers to run their
@@ -54,8 +54,8 @@ The ideal candidate will have the following:
 - Contributions to open source projects. OpenStack contributions a plus!
 
 **Don't be daunted by skills / requirements: if you even know 70% of what we've
-outlined, you're welcome to apply. Our team thrives off of mentoring one another
-and growing. Of course, if you're senior - we expect you to mentor developers
+outlined, you're welcome to apply. Our team thrives on mentoring one another
+and growing. Of course, if you're senior, we expect you to mentor developers
 earlier in their careers**
 
 Please email your resume/github/linkedin (your choice!) to one of:
