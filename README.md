@@ -63,30 +63,30 @@ issue if there's a bug!
 
 |Role|Github|
 |---    |---    |
-|**(AU) Software Developer**|[Andy McCrae](https://github.com/andymcc)|
-|**(AU) Software Developer**|[Harry Harringon](https://github.com/git-harry)|
-|**(AU) Software Developer**|[Hugh Saunders](https://github.com/hughsaunders)|
-|**(AU) Manager**|[Darren Birkett](https://github.com/mancdaz)|
-|**(AU) Software Developer**|[Matt Thompson](https://github.com/mattt416)|
-|**(AU) Software Developer**|[Jesse Pretorius](https://github.com/odyssey4me)|
-|**(UK) Software Deverloper**|[Angus Lees](https://github.com/anguslees)|
-|**(UK) Software Developer**|[Joshua Hesketh](https://github.com/jhesketh)|
-|**(UK) Software Developer**|[Matthew Oliver](https://github.com/matthewoliver)|
-|**(UK) Senior Manager**|[Michael Still](https://github.com/mikalstill)|
-|**(UK) Software Developer**|[Michael Davies](https://github.com/mrda)|
-|**(UK) Software Developer**|[Neill Cox](https://github.com/neillc)|
-|**(UK) Manager**|[Richard Jones](https://github.com/r1chardj0n3s)|
-|**(UK) Software Developer**|[Tony Breeds](https://github.com/tbreeds)|
+|**(UK) Manager**|[Darren Birkett](https://github.com/mancdaz)|
+|**(UK) Software Developer**|[Andy McCrae](https://github.com/andymcc)|
+|**(UK) Software Developer**|[Harry Harringon](https://github.com/git-harry)|
+|**(UK) Software Developer**|[Hugh Saunders](https://github.com/hughsaunders)|
+|**(UK) Software Developer**|[Matt Thompson](https://github.com/mattt416)|
+|**(UK) Software Developer**|[Jesse Pretorius](https://github.com/odyssey4me)|
+|**(AU) Senior Manager**|[Michael Still](https://github.com/mikalstill)|
+|**(AU) Manager**|[Richard Jones](https://github.com/r1chardj0n3s)|
+|**(AU) Software Developer**|[Angus Lees](https://github.com/anguslees)|
+|**(AU) Software Developer**|[Joshua Hesketh](https://github.com/jhesketh)|
+|**(AU) Software Developer**|[Matthew Oliver](https://github.com/matthewoliver)|
+|**(AU) Software Developer**|[Michael Davies](https://github.com/mrda)|
+|**(AU) Software Developer**|[Neill Cox](https://github.com/neillc)|
+|**(AU) Software Developer**|[Tony Breeds](https://github.com/tbreeds)|
+|**(US) Manager**|[Chris Laco](https://github.com/claco)|
+|**(US) Principle Engineer**|[Dolph Mathews](https://github.com/dolph)|
 |**(US) Network Architect**|[Evan Callicoat](https://github.com/apsu)|
-|**(US) Developer**|[Chris Laco](https://github.com/claco)|
+|**(US) Network Architect**|[Tom Cameron](https://github.com/rackertom)|
 |**(US) Software Developer**|[Kevin Carter](https://github.com/cloudnull)|
 |**(US) Software Developer**|[Dave Wilde](https://github.com/d34dh0r53)|
-|**(US) Principle Engineer**|[Dolph Mathews](https://github.com/dolph)|
 |**(US) Software Developer**|[David Stanek](https://github.com/dstanek)|
 |**(US) Software Developer**|[Miguel Grinberg](https://github.com/miguelgrinberg)|
 |**(US) Software Developer**|[Nolan Brubaker](https://github.com/nrb)|
 |**(US) Software Developer**|[Matthew Thode](https://github.com/prometheanfire)|
-|**(US) Network Architect**|[Tom Cameron](https://github.com/rackertom)|
 |**(US) Software Developer**|[Ian Cordasco](https://github.com/sigmavirus24)|
 |**(US) Software Developer**|[Steve Lewis](https://github.com/stevelle)|
 ---
