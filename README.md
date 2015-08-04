@@ -3,14 +3,14 @@
 The Rackspace Private Cloud Engineering Team is looking for a range of skills
 and roles. Our team is responsible for developing and improving the Rackspace
 Private Cloud OpenStack product. We leverage open and innovative technologies
-to build and maintain a reliable, stable, and scalable private cloud
+to build and maintain reliable, stable, and scalable private cloud
 installations built on OpenStack. We have folks located in San Antonio,
 Austin, the UK, Australia, as well as many remote (work from home) members
 of the group.
 
 Some of the things our team is responsible for and has worked on in the
-past, including the open source communinity side of our product (OSAD), our core
-product (RPC OpenStack), as well as contributing to the upsteam core OpenStack
+past include the open source communinity side of our product (OSAD), our core
+product (RPC OpenStack), and continued contribution to the upsteam core OpenStack
 projects:
 
 * [OSAD / OpenStack Ansible Deployment](https://github.com/stackforge/os-ansible-deployment)
