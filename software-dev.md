@@ -1,15 +1,15 @@
 # Software Developer - Openstack
 
-Be a part of history making in the cloud community with OpenStack and Rackspace
+Be a part of history in the making in the cloud community with OpenStack and Rackspace
 Private Cloud! OpenStack is a collection of open source technologies for
 controlling large pools of compute, storage, and networking resources throughout
-a datacenter all via standard and open API's. Our private cloud developers
+a datacenter, all via standard and open API's. Our private cloud developers
 develop these technologies and make them accessible to customers all over the
 world. We also enable the world's foremost experts of operating OpenStack to
 manage and deploy clouds in our customers' datacenters or ours.
 
 Rackspace is committed to contributing to and helping the OpenStack community
-to solidify OpenStack as a well-known, widely adopted cloud infrastructure
+to solidify OpenStack as a well-known, widely-adopted cloud infrastructure
 standard. As Rackspace Private Cloud developers, our motto is "if it's not in the
 open it doesn't exist", so you will contribute ideas/blueprints and code to the
 RPC OpenStack product, the OpenStack Ansible Deployment community project, and
@@ -46,7 +46,7 @@ The ideal candidate will have the following:
 - Good working knowledge of MySQL, Galera, and SQLAlchemy
 - Good working knowledge of Python, wheels, pip, etc.
 - Good working knowledge of Linux networking. Hardware networking experience a plus!
-- Experience with Ansible or other forms of deployment and configuration managent tools.
+- Experience with Ansible or other forms of deployment and configuration management tools.
 - Solid knowledge on distributed, highly available and massively scalable system design.
 - Experience with virtualization, preferably on multiple hypervisors
 - Excellent written and verbal skills.
