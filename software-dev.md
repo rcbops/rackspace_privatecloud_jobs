@@ -62,7 +62,7 @@ Please email your resume/github/linkedin (your choice!) to one of:
 
 * [(US) Chris Laco](mailto:chris.laco@rackspace.com)
 * [(UK) Darren Birkett](mailto:darren.birkett@rackspace.co.uk)
-* [(AU) Michael Still](mailto:michael.still@@rackspace.com)
+* [(AU) Michael Still](mailto:michael.still@rackspace.com)
 * [(AU) Richard Jones](mailto:richard.jones.au@rackspace.com)
 
 No agencies or recruiters please.
