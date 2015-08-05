@@ -50,7 +50,7 @@ orientation, veteran status, or any other legally protected characteristic.
 
 * [(US) Chris Laco](mailto:chris.laco@rackspace.com)
 * [(UK) Darren Birkett](mailto:darren.birkett@rackspace.co.uk)
-* [(AU) Michael Still](mailto:michael.still@@rackspace.com)
+* [(AU) Michael Still](mailto:michael.still@rackspace.com)
 * [(AU) Richard Jones](mailto:richard.jones.au@rackspace.com)
 
 If you see something odd, you can also submit a pull request to fix, or file an
