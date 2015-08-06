@@ -2,21 +2,21 @@
 
 The Rackspace Private Cloud Engineering Team is looking for a range of skills
 and roles. Our team is responsible for developing and improving the Rackspace
-Private Cloud powered by OpenStack product. We are focused on using and building
-open and innovative technologies to build and maintain reliable, stable, and
+Private Cloud powered by OpenStack product. We are focused on building and using
+open and innovative technologies to deploy and maintain reliable, stable, and
 scalable private cloud installations built on OpenStack. Team members are located
-in San Antonio, Austin, the UK, Australia, and several are remote (work from 
-home).
+in San Antonio, Austin, the UK, Australia, and several remote (work from 
+home) locations.
 
 Our team started the open source community for deploying OpenStack with
-Ansible and continues contribution to the following projects:
+Ansible and continues to contribute to the following projects:
 
 * [OSAD / OpenStack Ansible Deployment](https://github.com/stackforge/os-ansible-deployment)
 * [RPC  / Rackspace Private Cloud OpenStack](https://github.com/rcbops/rpc-openstack)
 * [OpenStack Projects](https://github.com/openstack/)
 
 Additionally, we regularly have the opportunity to speak and contribute at open source
-conferences like OpenStack, PyTenessee, PyTexas, StirTrek, and other opportunities:
+conferences such as OpenStack, PyTennessee, PyTexas, StirTrek, and many others:
 
 * [The Good and the Bad of the OpenStack REST APIs @ OpenStack Summit Vancouver 2015](https://openstacksummitmay2015vancouver.sched.org/event/6ce758d5c7340db74e0d432e138c6619)
 * [Managing logging in your OpenStack environment](https://openstacksummitmay2015vancouver.sched.org/event/0578eaca9f43132f52e234ccdf0a001f)
@@ -31,7 +31,7 @@ you if you are interested and up to the challenge.
 
 ## Open Jobs:
 
-**Don't be daunted by skills / requirements: if you even know 70% of what we've
+**Don't be daunted by skills / requirements! If you even know 70% of what we've
 outlined, you're welcome to apply. Our team thrives on mentoring one another
 and growing. Of course, if you're senior, we expect you to mentor developers
 earlier in their careers**
@@ -53,8 +53,8 @@ orientation, veteran status, or any other legally protected characteristic.
 * [(AU) Michael Still](mailto:michael.still@rackspace.com)
 * [(AU) Richard Jones](mailto:richard.jones.au@rackspace.com)
 
-If you see something odd, you can also submit a pull request to fix, or file an
-issue if there's a bug.
+If you see something odd, you can also submit a pull request to fix or file an
+issue.
 
 
 ### Who is the "Private Cloud Development Team"?
