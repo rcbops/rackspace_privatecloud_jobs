@@ -22,17 +22,17 @@ and carry extensive systems, networking, and development experience.
 
 ### Responsibilities:
 
-- Adds to and extends features of the OpenStack Ansible Deployment open source community project.
-- Adds to and extends features of the RPC OpenStack product.
+- Adds to and extends features of the [OpenStack Ansible Deployment](https://github.com/openstack/openstack-ansible) open source community project.
+- Adds to and extends features of the [RPC OpenStack](https://github.com/rcbops/rpc-openstack) product.
 - Adds to and extends features of the OpenStack platform as upstream bugs and issues are identified.
 - Facilitates design discussions with developers from Rackspace as well as the OpenStack community and documents own designs with blueprints.
 - Actively participates in regular OpenStack Ansible meetings and contributes to discussion on the designs from the community.
 - Actively participates in regular RPC OpenStack meetings and contributes to discussions on designs internally.
 - Actively provides code review feedbacks to code commits from the OpenStack community and from other Rackspace developers in OSAD and RPC OpenStack projects.
 - Writes clean, maintainable code that is suitable for continuous integration and deployment (CI/CD), following best practices and guidelines from Rackspace and the OpenStack community.
-- Debugs code, servers, and networking to troubleshoots problems and develops solutions for production issues.
+- Debugs code, servers, and networking to troubleshoot problems and develop solutions for production issues.
 - Collaborates with other developers, quality engineers (QE), ops engineers and support engineers to ensure smooth deployment, continual operation and fanatical support of quality software.
-- Mentors developing developers.
+- Mentors emerging developers.
 - Contributes to Rackspace strategy on productizing OpenStack features.
 
 ### Qualifications
