@@ -76,13 +76,10 @@ issue.
 |**(AU) Software Developer**|[Neill Cox](https://github.com/neillc)|
 |**(AU) Software Developer**|[Tony Breeds](https://github.com/tbreeds)|
 |**(US) Manager**|[Chris Laco](https://github.com/claco)|
-|**(US) Principal Engineer**|[Dolph Mathews](https://github.com/dolph)|
 |**(US) Network Architect**|[Evan Callicoat](https://github.com/apsu)|
 |**(US) Network Architect**|[Tom Cameron](https://github.com/rackertom)|
 |**(US) Software Developer**|[Kevin Carter](https://github.com/cloudnull)|
 |**(US) Software Developer**|[Dave Wilde](https://github.com/d34dh0r53)|
-|**(US) Software Developer**|[David Stanek](https://github.com/dstanek)|
-|**(US) Software Developer**|[Miguel Grinberg](https://github.com/miguelgrinberg)|
 |**(US) Software Developer**|[Nolan Brubaker](https://github.com/nrb)|
 |**(US) Software Developer**|[Matthew Thode](https://github.com/prometheanfire)|
 |**(US) Software Developer**|[Ian Cordasco](https://github.com/sigmavirus24)|
