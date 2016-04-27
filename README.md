@@ -67,6 +67,7 @@ issue.
 |**(UK) Software Developer**|[Hugh Saunders](https://github.com/hughsaunders)|
 |**(UK) Software Developer**|[Matt Thompson](https://github.com/mattt416)|
 |**(UK) Software Developer**|[Jesse Pretorius](https://github.com/odyssey4me)|
+|**(UK) Software Developer**|[Jean-Philippe Evrard](https://github.com/evrardjp)|
 |**(AU) Senior Manager**|[Michael Still](https://github.com/mikalstill)|
 |**(AU) Manager**|[Richard Jones](https://github.com/r1chardj0n3s)|
 |**(AU) Software Developer**|[Angus Lees](https://github.com/anguslees)|
