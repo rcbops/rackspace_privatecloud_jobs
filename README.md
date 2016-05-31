@@ -61,7 +61,7 @@ issue.
 
 |Role|Github|
 |---    |---    |
-|**(UK) Manager**|[Darren Birkett](https://github.com/mancdaz)|
+|**(UK) Senior Manager**|[Darren Birkett](https://github.com/mancdaz)|
 |**(UK) Software Developer**|[Andy McCrae](https://github.com/andymcc)|
 |**(UK) Software Developer**|[Harry Harringon](https://github.com/git-harry)|
 |**(UK) Software Developer**|[Hugh Saunders](https://github.com/hughsaunders)|
@@ -76,7 +76,7 @@ issue.
 |**(AU) Software Developer**|[Michael Davies](https://github.com/mrda)|
 |**(AU) Software Developer**|[Neill Cox](https://github.com/neillc)|
 |**(AU) Software Developer**|[Tony Breeds](https://github.com/tbreeds)|
-|**(US) Manager**|[Chris Laco](https://github.com/claco)|
+|**(US) Senior Manager**|[Chris Laco](https://github.com/claco)|
 |**(US) Network Architect**|[Evan Callicoat](https://github.com/apsu)|
 |**(US) Network Architect**|[Tom Cameron](https://github.com/rackertom)|
 |**(US) Software Developer**|[Kevin Carter](https://github.com/cloudnull)|
@@ -85,4 +85,7 @@ issue.
 |**(US) Software Developer**|[Matthew Thode](https://github.com/prometheanfire)|
 |**(US) Software Developer**|[Ian Cordasco](https://github.com/sigmavirus24)|
 |**(US) Software Developer**|[Steve Lewis](https://github.com/stevelle)|
+|**(US) Software Developer**|[Cameron Loader](https://github.com/cloader89)|
+|**(US) Software Developer**|[Frank Zhang](https://github.com/Frank-ZhangXin)|
+|**(US) Software Developer**|[Alex Cantu](https://github.com/alextricity25)|
 ---
