@@ -43,7 +43,8 @@ orientation, veteran status, or any other legally protected characteristic.
 
 ### Development Team:
 
-* [Software Developer, OSA/RPC - US/UK/AU/WFH](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-developer-osa-rpc.md)
+* (x1) [Manager, Software Developement - US/WFH](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/manager-software-development.md)
+* (0) [~~Software Developer, OSA/RPC - US/UK/AU/WFH~~](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-developer-osa-rpc.md)
 
 
 ### To apply, email your resume to:
