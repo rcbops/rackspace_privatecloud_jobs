@@ -44,6 +44,7 @@ orientation, veteran status, or any other legally protected characteristic.
 ### Development Team:
 
 * (x1) [Manager, Software Developement - US/WFH](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/manager-software-development.md)
+* (x2) [Software Developer, Fleet Management - US/UK/WFH](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-developer-fleet-management.md)
 * (0) [~~Software Developer, OSA/RPC - US/UK/AU/WFH~~](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-developer-osa-rpc.md)
 
 
