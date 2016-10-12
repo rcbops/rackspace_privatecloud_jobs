@@ -11,7 +11,7 @@ home) locations.
 Our team started the open source community for deploying OpenStack with
 Ansible and continues to contribute to the following projects:
 
-* [OSAD / OpenStack Ansible Deployment](https://github.com/stackforge/os-ansible-deployment)
+* [OSA / OpenStack Ansible](https://github.com/openstack/openstack-ansible)
 * [RPC  / Rackspace Private Cloud OpenStack](https://github.com/rcbops/rpc-openstack)
 * [OpenStack Projects](https://github.com/openstack/)
 
@@ -43,9 +43,9 @@ orientation, veteran status, or any other legally protected characteristic.
 
 ### Development Team:
 
-* (x1) [Manager, Software Developement - US/WFH](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/manager-software-development.md)
-* (x2) [Software Developer, Fleet Management - US/UK/WFH](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-developer-fleet-management.md)
-* (0) [~~Software Developer, OSA/RPC - US/UK/AU/WFH~~](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-developer-osa-rpc.md)
+* (x1) [Manager, Software Developement - US/WFH](manager-software-development.md)
+* (x2) [Software Developer, Fleet Management - US/UK/WFH](software-developer-fleet-management.md)
+* (N/A) [~~Software Developer, OSA/RPC - US/UK/AU/WFH~~](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-developer-osa-rpc.md)
 
 
 ### To apply, email your resume to:
