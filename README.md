@@ -70,6 +70,7 @@ issue.
 |**(UK) Software Developer**|[Matt Thompson](https://github.com/mattt416)|
 |**(UK) Software Developer**|[Jesse Pretorius](https://github.com/odyssey4me)|
 |**(UK) Software Developer**|[Jean-Philippe Evrard](https://github.com/evrardjp)|
+|**(UK) Software Developer**|[Sulochan Acharya](https://github.com/sulochan)|
 |**(AU) Senior Manager**|[Michael Still](https://github.com/mikalstill)|
 |**(AU) Manager**|[Richard Jones](https://github.com/r1chardj0n3s)|
 |**(AU) Software Developer**|[Angus Lees](https://github.com/anguslees)|
@@ -90,4 +91,5 @@ issue.
 |**(US) Software Developer**|[Cameron Loader](https://github.com/cloader89)|
 |**(US) Software Developer**|[Frank Zhang](https://github.com/Frank-ZhangXin)|
 |**(US) Software Developer**|[Alex Cantu](https://github.com/alextricity25)|
+|**(US) Software Developer**|[Jim Baker](https://github.com/jimbaker)|
 ---
