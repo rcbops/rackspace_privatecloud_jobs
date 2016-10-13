@@ -15,21 +15,21 @@ configuration management, and AI or AI-like tools along with serverless technolo
 
 ### Responsibilities:
 
-- Taking ownership of a feature/bug and working independently to implement it in the fleet management project context.
-- Taking part in discussion on various topics relating to the project
-- Reviewing code in gerrit
-- Helping other team members on issues they are stuck on or mentoring OSIC team members
-- Taking part in upstream (openstack) meetings, discussions with other projects
+- Take ownership of a feature/bug and working independently to implement it in the fleet management project context.
+- Take part in discussion on various topics relating to the project
+- Review code in gerrit
+- Help other team members on issues they are stuck on or mentoring OSIC team members
+- Take part in upstream (openstack) meetings, discussions with other projects
 - Take part in team meetings
 - Write clean, working code
-- Write tests for the code you just wrote( unit / functional / integration tests )
+- Write tests for the code you just wrote ( unit / functional / integration tests )
 - Co-design solutions with the team and with users including other OpenStack teams
-- Implementing proof of concept, prototypes, and production-grade software
+- Implement proof of concept, prototypes, and production-grade software
 - Work independently and use irc/vidyo/skype etc as the primary means of communication with the team.
 - Be a positive influence on the team
-- Facilitates design discussions with developers from Rackspace as well as the OpenStack community and documents own designs with blueprints.
-- Collaborates with other developers, quality engineers (QE), ops engineers and support engineers to ensure smooth deployment, continual operation and fanatical support of quality software.
-- Mentors emerging developers.
+- Facilitate design discussions with developers from Rackspace as well as the OpenStack community and documents own designs with blueprints.
+- Collaborate with other developers, quality engineers (QE), ops engineers and support engineers to ensure smooth deployment, continual operation and fanatical support of quality software.
+- Mentor emerging developers.
 
 ### Qualifications
 
