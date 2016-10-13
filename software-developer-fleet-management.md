@@ -35,7 +35,6 @@ configuration management, and AI or AI-like tools along with serverless technolo
 
 The ideal candidate will have the following:
 
-- BS/MS in Computer Science or equivalent experience.
 - 5+ years of experience in installing and maintaining Linux servers.
 - Strong programming skills (preferably python).
 - Comfortable using git or similar version control system.

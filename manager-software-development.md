@@ -53,7 +53,6 @@ ensuring project deliverables are met.
 
 The ideal candidate will have the following:
 
-- Bachelor’s degree in Computer Science or a related field; Master’s degree preferred
 - Minimum of 5 years of experience in directly leading/managing a team of 5 to 7 software developers
 - Minimum of 5 years of experience as a software developer
 - Experienced in building high-performance, highly available and reliable software for a large-scale, geographically dispersed production environment
