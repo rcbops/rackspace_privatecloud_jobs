@@ -28,23 +28,23 @@ ensuring project deliverables are met.
 
 - Be accountable for developing private cloud software software to be deployed into a large scale, geographically dispersed and highly available production environments
 - Work together with the product organisation to plan and execute projects, ensure that teams have appropriate product and technical specifications, direction, and resources to deliver products effectively
-- Works with team members and the Product Management team to ensure features are appropriately broken down, sized and scoped for efficient execution by the development team.
+- Work with team members and the Product Management team to ensure features are appropriately broken down, sized and scoped for efficient execution by the development team.
 - Demonstrate leadership abilities to our consumers (support) with the deployment of software upgrades, enhancements and fixes
-- Ensures team members adopt, embrace and enhance software development processes and best practices to achieve efficient and predictable delivery of features
+- Ensure team members adopt, embrace and enhance software development processes and best practices to achieve efficient and predictable delivery of features
 - Participate in roadmap discussions to help shape the future of the product
 - Interface with QE, support, sales, pre-sales and other technical teams within Rackspace Private Cloud to ensure the product is being built in accordance with the consumer's needs
 - Ensure you represent both the voice of the team to the business, and the voice of the business to the team
 - Keep the development team happy and ensure roadblocks are removed
-- Leverages the experience of more seasoned team members to help increase the team's overall capability
-- Partners with all stake holders to ensure the current and projected team size is appropriate for the Engineering and Product road map
-- Partners with Quality Engineering team to ensure feature development is testable (integration, load, performance, and high availability)
-- Partners with Support Engineers to ensure that feature development is supportable and support pain points are addresses in a timely manner
-- Ensures that monitoring and maintainability are baked into the software development practices
+- Leverage the experience of more seasoned team members to help increase the team's overall capability
+- Partner with all stake holders to ensure the current and projected team size is appropriate for the Engineering and Product road map
+- Partner with Quality Engineering team to ensure feature development is testable (integration, load, performance, and high availability)
+- Partner with Support Engineers to ensure that feature development is supportable and support pain points are addresses in a timely manner
+- Ensure that monitoring and maintainability are baked into the software development practices
 
 #### People
 
 - Be comfortable managing both on-site and remote team members, of varying levels of experience
-- Effectively manage resource allocations across the team to ensure healthy productivity
+- Manage resource allocations effectively across the team to ensure healthy productivity
 - Help developers resolve both technical problems as well as human resources issues
 - Monitor individual employees’ performance
 - Provide leadership and guidance to coach, motivate, and lead team members to their optimum performance levels and career development
