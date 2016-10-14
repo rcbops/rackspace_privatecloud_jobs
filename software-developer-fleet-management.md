@@ -10,21 +10,21 @@ manage and deploy clouds in our customers' datacenters or ours.
 
 The ideal candidates must be interested in solving operational problems at scale
 with respect to system operation and cloud operation thorough automation, including
-but not limited to things like hands free automation, inventory management,
+but not limited to things like hands-free automation, inventory management,
 configuration management, and AI or AI-like tools along with serverless technologies.
 
 ### Responsibilities:
 
-- Write clean, working code.
-- Write tests for the code you just wrote ( unit / functional / integration tests ).
-- Review code in gerrit.
-- Take ownership of a feature/bug and working independently to implement it in the fleet management project context.
-- Co-design solutions with the team and with users including other OpenStack teams.
+- Take ownership of a feature/bug and work independently to implement.
+- Write clean, robust, maintainable code.
+- Develop tests for your code, using unit, functional, and integration approaches.
+- Review code in Gerrit.
+- Co-design solutions with the team, users, and other OpenStack teams.
 - Implement proof of concept, prototypes, and production-grade software.
 - Take part in discussion on various topics relating to the project.
-- Take part in team meetings and upstream (openstack) meetings and discussions with other projects.
+- Take part in team meetings and upstream (OpenStack) meetings and discussions with other projects.
 - Help other team members on issues they are stuck on or mentoring OSIC team members.
-- Work independently and use irc/vidyo/skype etc as the primary means of communication with the team.
+- Comfortable in using irc/vidyo/skype etc as the primary means of communication with the team.
 - Facilitate design discussions with developers from Rackspace as well as the OpenStack community and documents own designs with blueprints.
 - Collaborate with other developers, quality engineers (QE), ops engineers and support engineers to ensure smooth deployment, continual operation and fanatical support of quality software.
 - Be a positive influence on the team.
@@ -32,24 +32,22 @@ configuration management, and AI or AI-like tools along with serverless technolo
 
 ### Qualifications
 
-The ideal candidate will have the following:
+The ideal candidate has the following skills:
 
-- 5+ years of experience in installing and maintaining Linux servers.
-- Strong programming skills (preferably python).
-- Comfortable using git or similar version control system.
-- Operations background or understands what running a production private cloud will entail.
+- Strong development skills in Python, as well as other languages. Knowledge of Python 3.4 and 3.5 is a strong plus.
+- Using git branches, can develop, maintain, and as necessary rebase a patch until merged, using a collaborative workflow.
+- Demonstrated contributions to open source projects. OpenStack upstream contributions very much a plus!
+- Community collaboration using mailing lists, IRC, GitHub pull requests, issue trackers, and other tools.
+- Experience with designing and implementing REST APIs. Flask experience a plus.
+- Database modeling, query optimization, and schema/data migration. SQLAlchemy and specific platform knowledge (Galera, PostgreSQL) are desired.
+- Experience in building robust distributed systems. Celery, Redis, RabbitMQ are pluses. Experience with container scheduling (Docker swarm, Kubernetes, Mesos) are especially desired.
+- DevOps background: install/maintain Linux servers using deployment and configuration management tools. Ansible is a plus.
+- Familarity with OpenStack, OpenStack development process, and how to run a production private cloud are all pluses.
 - Continuous development and deployment experience a plus.
-- Familarity with OpenStack and OpenStack development process is a plus.
-- Experience writing distributed systems code that utilizes containers is a plus.
 - Experience with pros and cons of different architectural patterns a plus.
-- Experience in distributed systems. Experience with Flask, SQLAlchemy, Celery, Redis, RabbitMQ etc a plus.
-- Experience with REST APIs; database modeling, and basic graph theory.
-- Experience with containers scheduling (docker swarm, k8s, mesos a ++).
-- Good working knowledge of Internet and operating system security fundamentals.
-- Experience with Ansible or other forms of deployment and configuration management tools.
+- Knowledge of security consideratons, including internet, database, and operating system security fundamentals.
 - Excellent written and verbal skills.
-- Experience with working in open source communities: collaboration using mailing lists, IRC and other distributed communications systems.
-- Contributions to open source projects. OpenStack contributions a plus!
+
 
 **Don't be daunted by skills / requirements! If you even know 70% of what we've
 outlined, you're welcome to apply. Our team thrives on mentoring one another
