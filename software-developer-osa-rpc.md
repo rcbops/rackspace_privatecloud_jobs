@@ -39,7 +39,6 @@ and carry extensive systems, networking, and development experience.
 
 The ideal candidate will have the following:
 
-- BS/MS in Computer Science or equivalent experience.
 - 5+ years of experience in installing and maintaining Linux servers.
 - Good working knowledge of Internet and operating system security fundamentals.
 - Good working knowledge of message queuing technologies such as RabbitMQ.
