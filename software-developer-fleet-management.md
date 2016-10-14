@@ -15,20 +15,19 @@ configuration management, and AI or AI-like tools along with serverless technolo
 
 ### Responsibilities:
 
+- Write clean, working code.
+- Write tests for the code you just wrote ( unit / functional / integration tests ).
+- Review code in gerrit.
 - Take ownership of a feature/bug and working independently to implement it in the fleet management project context.
-- Take part in discussion on various topics relating to the project
-- Review code in gerrit
-- Help other team members on issues they are stuck on or mentoring OSIC team members
-- Take part in upstream (openstack) meetings, discussions with other projects
-- Take part in team meetings
-- Write clean, working code
-- Write tests for the code you just wrote ( unit / functional / integration tests )
-- Co-design solutions with the team and with users including other OpenStack teams
-- Implement proof of concept, prototypes, and production-grade software
+- Co-design solutions with the team and with users including other OpenStack teams.
+- Implement proof of concept, prototypes, and production-grade software.
+- Take part in discussion on various topics relating to the project.
+- Take part in team meetings and upstream (openstack) meetings and discussions with other projects.
+- Help other team members on issues they are stuck on or mentoring OSIC team members.
 - Work independently and use irc/vidyo/skype etc as the primary means of communication with the team.
-- Be a positive influence on the team
 - Facilitate design discussions with developers from Rackspace as well as the OpenStack community and documents own designs with blueprints.
 - Collaborate with other developers, quality engineers (QE), ops engineers and support engineers to ensure smooth deployment, continual operation and fanatical support of quality software.
+- Be a positive influence on the team.
 - Mentor emerging developers.
 
 ### Qualifications
@@ -43,9 +42,9 @@ The ideal candidate will have the following:
 - Familarity with OpenStack and OpenStack development process is a plus.
 - Experience writing distributed systems code that utilizes containers is a plus.
 - Experience with pros and cons of different architectural patterns a plus.
-- Experience in distributed systems. Experience with Flask, SQLAlchemy, Celery, Redis, RabbitMQ etc a plus
-- Experience with REST APIs; database modeling, and basic graph theory
-- Experience with containers scheduling (docker swarm, k8s, mesos a ++)
+- Experience in distributed systems. Experience with Flask, SQLAlchemy, Celery, Redis, RabbitMQ etc a plus.
+- Experience with REST APIs; database modeling, and basic graph theory.
+- Experience with containers scheduling (docker swarm, k8s, mesos a ++).
 - Good working knowledge of Internet and operating system security fundamentals.
 - Experience with Ansible or other forms of deployment and configuration management tools.
 - Excellent written and verbal skills.
