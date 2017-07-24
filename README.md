@@ -45,12 +45,14 @@ orientation, veteran status, or any other legally protected characteristic.
 
 * (x1) [Manager, Software Developement - US/WFH](manager-software-development.md)
 * (x2) [Software Developer, Fleet Management - US/UK/WFH](software-developer-fleet-management.md)
+* (x2) [Software Developer, Operational Fabric - US/UK/DE/WFH](software-developer-operational-fabric.md)
 * (N/A) [~~Software Developer, OSA/RPC - US/UK/AU/WFH~~](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-developer-osa-rpc.md)
 
 
 ### To apply, email your resume to:
 
 * [(US) Chris Laco](mailto:chris.laco@rackspace.com)
+* [(US) Jesse Cook](mailto:jesse.cook@rackspace.com)
 * [(UK) Darren Birkett](mailto:darren.birkett@rackspace.co.uk)
 * [(AU) Michael Still](mailto:michael.still@rackspace.com)
 * [(AU) Richard Jones](mailto:richard.jones.au@rackspace.com)
@@ -92,4 +94,9 @@ issue.
 |**(US) Software Developer**|[Frank Zhang](https://github.com/Frank-ZhangXin)|
 |**(US) Software Developer**|[Alex Cantu](https://github.com/alextricity25)|
 |**(US) Software Developer**|[Jim Baker](https://github.com/jimbaker)|
+|**(US) Manager**|[Jesse Cook](https://github.com/crashenx)|
+|**(US) Software Developer**|[Brian Curtin](https://github.com/briancurtin)|
+|**(US) Software Developer**|[Hemanth Makkapati](https://github.com/hmakkapati)|
+|**(US) Software Developer**|[Mario Villaplana](https://github.com/supermari0)|
+|**(US) Software Developer**|[Zack Shoylev](https://github.com/zack-shoylev)|
 ---
