@@ -43,9 +43,10 @@ orientation, veteran status, or any other legally protected characteristic.
 
 ### Development Team:
 
-* (x1) [Manager, Software Developement - US/WFH](manager-software-development.md)
-* (x2) [Software Developer, Fleet Management - US/UK/WFH](software-developer-fleet-management.md)
 * (x2) [Software Developer, Operational Fabric - US/UK/DE/WFH](software-developer-operational-fabric.md)
+* (x2) [Software Developer, Config Management, Provisioning, Install/Upgrade) - US/WFH](software-developer-cm-provisioning-lifecycle.md)
+* (N/A) [~~Manager, Software Development - US/WFH~~](manager-software-development.md)
+* (N/A) [~~Software Developer, Fleet Management - US/UK/WFH~~](software-developer-fleet-management.md)
 * (N/A) [~~Software Developer, OSA/RPC - US/UK/AU/WFH~~](https://github.com/rcbops/rackspace_privatecloud_jobs/blob/master/software-developer-osa-rpc.md)
 
 
@@ -54,8 +55,6 @@ orientation, veteran status, or any other legally protected characteristic.
 * [(US) Chris Laco](mailto:chris.laco@rackspace.com)
 * [(US) Jesse Cook](mailto:jesse.cook@rackspace.com)
 * [(UK) Darren Birkett](mailto:darren.birkett@rackspace.co.uk)
-* [(AU) Michael Still](mailto:michael.still@rackspace.com)
-* [(AU) Richard Jones](mailto:richard.jones.au@rackspace.com)
 
 If you see something odd, you can also submit a pull request to fix or file an
 issue.
@@ -72,15 +71,6 @@ issue.
 |**(UK) Software Developer**|[Matt Thompson](https://github.com/mattt416)|
 |**(UK) Software Developer**|[Jesse Pretorius](https://github.com/odyssey4me)|
 |**(UK) Software Developer**|[Jean-Philippe Evrard](https://github.com/evrardjp)|
-|**(UK) Software Developer**|[Sulochan Acharya](https://github.com/sulochan)|
-|**(AU) Senior Manager**|[Michael Still](https://github.com/mikalstill)|
-|**(AU) Manager**|[Richard Jones](https://github.com/r1chardj0n3s)|
-|**(AU) Software Developer**|[Angus Lees](https://github.com/anguslees)|
-|**(AU) Software Developer**|[Joshua Hesketh](https://github.com/jhesketh)|
-|**(AU) Software Developer**|[Matthew Oliver](https://github.com/matthewoliver)|
-|**(AU) Software Developer**|[Michael Davies](https://github.com/mrda)|
-|**(AU) Software Developer**|[Neill Cox](https://github.com/neillc)|
-|**(AU) Software Developer**|[Tony Breeds](https://github.com/tbreeds)|
 |**(US) Senior Manager**|[Chris Laco](https://github.com/claco)|
 |**(US) Network Architect**|[Evan Callicoat](https://github.com/apsu)|
 |**(US) Network Architect**|[Tom Cameron](https://github.com/rackertom)|
@@ -88,12 +78,8 @@ issue.
 |**(US) Software Developer**|[Dave Wilde](https://github.com/d34dh0r53)|
 |**(US) Software Developer**|[Nolan Brubaker](https://github.com/nrb)|
 |**(US) Software Developer**|[Matthew Thode](https://github.com/prometheanfire)|
-|**(US) Software Developer**|[Ian Cordasco](https://github.com/sigmavirus24)|
-|**(US) Software Developer**|[Steve Lewis](https://github.com/stevelle)|
 |**(US) Software Developer**|[Cameron Loader](https://github.com/cloader89)|
 |**(US) Software Developer**|[Frank Zhang](https://github.com/Frank-ZhangXin)|
-|**(US) Software Developer**|[Alex Cantu](https://github.com/alextricity25)|
-|**(US) Software Developer**|[Jim Baker](https://github.com/jimbaker)|
 |**(US) Manager**|[Jesse Cook](https://github.com/crashenx)|
 |**(US) Software Developer**|[Brian Curtin](https://github.com/briancurtin)|
 |**(US) Software Developer**|[Hemanth Makkapati](https://github.com/hmakkapati)|
