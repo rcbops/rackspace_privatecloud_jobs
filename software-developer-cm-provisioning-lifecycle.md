@@ -14,7 +14,7 @@ The ideal candidates must be interested in building quality, highly scalable, hi
 
 - **Hours**: We have flexible working hours and aim for a median of 35-40 hours a week
 - **On-Call**: No, though deploying new systems will require a level of care and feeding
-- **Location**: Work from home, where ever that might be, with offices in the US and UK
+- **Location**: Work from home (US); Austin, TX office; or San Antonio, TX office
 - **Travel**: About once or twice a year for a conference or team gathering
 
 ### Responsibilities
