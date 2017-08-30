@@ -63,6 +63,6 @@ The ideal candidate will have the following (**not** hard requirements):
 - Experience with pros and cons of different architectural patterns a plus.
 - Excellent written and verbal skills.
 
-Please email your resume/github/linkedin (your choice!) to [Chris Laco](mailto:chris.laco@rackspace.com). No agencies or recruiters please.
+Please [submit your application here](https://uscareers-rackspace.icims.com/jobs/20715/software-developer-iii---us-1/job). No agencies or recruiters please.
 
 **Equal Employment Opportunity Policy**: Rackspace is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.
