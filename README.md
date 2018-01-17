@@ -43,7 +43,7 @@ orientation, veteran status, or any other legally protected characteristic.
 
 ### Development Team:
 
-* (x2) [Software Developer, Operational Fabric - US/UK/DE/WFH](software-developer-operational-fabric.md)
+* (x1) [SRE, Operational Fabric - US/UK WFH](sre-operational-fabric.md)
 * (x2) [Software Developer, Config Management, Provisioning, Install/Upgrade) - US/WFH](software-developer-cm-provisioning-lifecycle.md)
 * (N/A) [~~Manager, Software Development - US/WFH~~](manager-software-development.md)
 * (N/A) [~~Software Developer, Fleet Management - US/UK/WFH~~](software-developer-fleet-management.md)
