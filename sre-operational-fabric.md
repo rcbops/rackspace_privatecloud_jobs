@@ -1,62 +1,58 @@
 # (Remote) SRE - Rackspace Private Cloud
 
-## Role
+## Rackspace SRE
+
+N.B., See the *Ops Fabric SRE Focus* section for a more specific description of
+the role this req is for.
 
 Site Reliability Engineering (SRE) is an engineering discipline that combines
 software and systems engineering to build and run large-scale, massively
 distributed, fault-tolerant systems. SRE ensures that Rackspace's managed
 service offerings & customer deployments have reliability and uptime
 appropriate to users' needs and a fast rate of improvement while monitoring and
-validating capacity and performance. Act as a Technical Lead for a portfolio of
-managed service deployments. Focus on reliability, scalability and the
-development of automation to manage a set of repetitive tasks at scale.
+validating capacity and performance. An engineer in this role, acts as a
+Technical Lead for a portfolio of managed service deployments. They focus on
+reliability, scalability and the development of automation to manage a set of
+repetitive tasks at scale.
 
 ### Knowledge, Skills, Ability
 
-- Deep Experience in one or more of: C, C++, Java, Perl, Python, Bash or Go.
-- Deep experience working with Unix/Linux systems from kernel to shell and beyond, with experience working with system libraries, file systems, and client-server protocols.
-- Networking: e.g. TCP/IP, UDP, ICMP, etc., MAC addresses, IP packets, DNS, SDN, OSI layers, and load balancing.
-- Strong expertise in designing, analyzing and troubleshooting large-scale distributed systems.
-- In depth knowledge of operating systems.
-- Familiarity with algorithms, data structures and complexity analysis.
-- Deep experience designing complex SaaS applications for cloud reliability and scalability.
-- Expert-level experience with GCP, AWS or Openstack APIs.
-- Deep experience with cloud infrastructure automation and CI/CD pipeline design.
-- Expertise in operational monitoring and management tools (Nagios, Datadog, etc.).
-- Advanced written & verbal communication skills, both highly technical and non-technical.
-- Ability to work closely with non-technical stakeholders and executives.
-- Capable of providing strategic technical advice.
-- Systematic problem-solving approach, coupled with a strong sense of ownership and drive.
-- Additional skills may be required depending on role; for example Kubernetes, Docker, Terraform, CEPH and other modern tools/technologies.
+- Deep Experience in one or more of: C, C++, Java, Perl, Python, Bash or Go
+- Deep experience working with Unix/Linux systems from kernel to shell and beyond, with experience working with system libraries, file systems, and client-server protocols
+- Networking: TCP/IP, UDP, ICMP, MAC addresses, IP packets, DNS, SDN, OSI layers, and load balancing
+- Strong expertise in designing, analyzing and troubleshooting large-scale distributed systems
+- Familiarity with algorithms, data structures and complexity analysis
+- Deep experience designing complex SaaS applications for cloud reliability and scalability
+- Expert-level experience with GCP, AWS or Openstack APIs
+- Deep experience with cloud infrastructure automation and CI/CD pipeline design
+- Experience with deployment orchestration (Mesos, Kubernetes, Docker Swarm, etc.)
+- Expertise in operational monitoring and management tools (Datadog, Prometheus, Terraform, etc.)
+- Advanced written & verbal communication skills, both highly technical and non-technical
+- Ability to work closely with non-technical stakeholders and executives
+- Capable of providing strategic technical advice
+- Systematic problem-solving approach, coupled with a strong sense of ownership and drive
+- Additional skills may be required depending on role (Ceph, Helm, etc.)
 
 ### Job Complexity
 
-Supports high complexity deployments and internal teams on an as-needed basis.
-Responsible for the roll-out and operations of large scale, complex systems
-automation. Collaborates with other teams on tools for systems automation.
-Works in conjunction with multiple teams to ensure up-time and reliability of
-customer deployments.
+- Support high complexity deployments and internal teams on an as-needed basis
+- Responsible for the roll-out and operations of large scale, complex systems automation
+- Collaborate with other teams on tools for systems automation
+- Work in conjunction with multiple teams to ensure up-time and reliability of customer deployments
 
 ### Supervision
 
-Operates with little to no supervision. Provides technical and thought
-leadership to all levels of Infrastructure Services.
+- Operate with little to no supervision
+- Provide technical and thought leadership to all levels of Infrastructure Services
 
 ### Experience Education
 
-High school diploma or equivalent required.  Bachelor's degree in Computer
-Science or equivalent experience. Usually requires 8+ years of information
-systems design/architecture/development experience. May require additional
-certifications depending on specialization.
+- High school diploma or equivalent required
+- Bachelor's degree in Computer Science or equivalent experience
+- 5+ years of information systems design/architecture/development experience
+- May require additional certifications depending on specialization
 
-### Physical Demands
-
-General office environment. Considerable stress may occur at times. Some
-lifting up to 20 pounds required. General office environment.  May require long
-periods sitting and viewing a computer monitor.  Moderate levels of stress may
-occur at times.  No special physical demands required.
-
-## Focus
+## Ops Fabric SRE Focus
 
 As a Rackspace Private Cloud (RPC) Operational Fabric SRE, you will help
 support our organizational vision: To become the preferred brand for consuming
@@ -78,10 +74,10 @@ the world.
 
 ### Responsibilities
 
-- Help develop and maintain **observability**/controllability of customer environments
+- Help drive the architecture, develop, and maintain observability of customer environments
 - Help drive zero downtime (0DD) CI/CD for our team's infrastructure and app stack
 - Work directly with support engineers, operations, product management, and end-users
-- Develop automation to improve efficiency, reliability, and simplicity of clouds
+- Own automation to improve efficiency, reliability, and simplicity of clouds
 - Take high level problems and autonomously deliver solutions supported by data
 - Develop solutions that leverage and integrate existing open source technologies
 - Engage asynchronously with team members via Slack, Jira, github, and email
@@ -91,18 +87,15 @@ the world.
 
 The ideal candidate will have the following (**not** hard requirements):
 
-- Experience defining and operating production systems that run at scale
-- Experience developing and deploying applications at scale
+- Experience defining, developing, deploying, and operating systems that run at scale
 - Experience working on distributed teams
 - Experience with 0DD CI/CD on Kubernetes using Helm
-- Experience with multiple cloud computing technologies (e.g. AWS, GCP, OpenStack)
-- Experience with multiple programming paradigms (i.e. declarative, functional, imperative, object-oriented)
-- A polyglot (e.g. Python, Go, Haskell)
-- Good working knowledge of network security and secure coding fundamentals (e.g. auditing, authentication, authorization, confidentiality, integrity, availability, input safety)
-- Good working knowledge of messaging technologies (e.g. RabbitMQ, Kafka)
+- Experience with multiple cloud computing technologies (e.g. GCP, OpenStack)
+- Experience working in a polyglot environment (e.g. Python + Go + CoffeScript)
+- Good working knowledge of network security and secure coding fundamentals
+- Good working knowledge of technologies supporting event-sourced architecture (e.g. Kafka)
 - Good working knowledge of document, relational, and time-series databases (e.g. Mongo, MySQL, Influx)
-- Good working knowledge of monitoring technologies (e.g. Prometheus, TICK)
-- Excellent written and verbal skills
+- Good working knowledge of monitoring technologies (e.g. Prometheus, Telegraf)
 
 ## Additional Info
 
