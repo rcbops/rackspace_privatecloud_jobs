@@ -78,7 +78,7 @@ the world.
 
 ### Responsibilities
 
-- Help develop and maintain *observability*/controllability of customer environments
+- Help develop and maintain **observability**/controllability of customer environments
 - Help drive zero downtime (0DD) CI/CD for our team's infrastructure and app stack
 - Work directly with support engineers, operations, product management, and end-users
 - Develop automation to improve efficiency, reliability, and simplicity of clouds
