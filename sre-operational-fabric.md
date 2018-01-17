@@ -1,4 +1,4 @@
-# (Remote) Senior Software Developer - Rackspace Private Cloud
+# (Remote) SRE - Rackspace Private Cloud
 
 As a Rackspace Private Cloud (RPC) Operational Fabric SRE, you will help
 support our organizational vision: To become the preferred brand for consuming
