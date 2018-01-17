@@ -91,7 +91,7 @@ The ideal candidate will have the following (**not** hard requirements):
 - Experience working on distributed teams
 - Experience with 0DD CI/CD on Kubernetes using Helm
 - Experience with multiple cloud computing technologies (e.g. GCP, OpenStack)
-- Experience working in a polyglot environment (e.g. Python + Go + CoffeScript)
+- Experience working in a polyglot environment (e.g. Python + Go + CoffeeScript)
 - Good working knowledge of network security and secure coding fundamentals
 - Good working knowledge of technologies supporting event-sourced architecture (e.g. Kafka)
 - Good working knowledge of document, relational, and time-series databases (e.g. Mongo, MySQL, Influx)
