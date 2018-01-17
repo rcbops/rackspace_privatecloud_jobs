@@ -8,7 +8,7 @@ simplicity, efficiency, and reliability.
 Our team supports this mission by improving
 [observability](https://en.wikipedia.org/wiki/Observability) (i.e. insight
 into) and [controllability](https://en.wikipedia.org/wiki/Controllability)
-(i.e. state mutation) of cloud deployments located in data-centers throughout
+(i.e. state mutation) of cloud deployments located in datacenters throughout
 the world.
 
 ## Role
