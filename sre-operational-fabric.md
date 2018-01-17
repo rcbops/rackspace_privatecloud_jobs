@@ -8,7 +8,7 @@ distributed, fault-tolerant systems. SRE ensures that Rackspace's managed
 service offerings & customer deployments have reliability and uptime
 appropriate to users' needs and a fast rate of improvement while monitoring and
 validating capacity and performance. Act as a Technical Lead for a portfolio of
-managed service deployments. Focused on reliability, scalability and the
+managed service deployments. Focus on reliability, scalability and the
 development of automation to manage a set of repetitive tasks at scale.
 
 ### Knowledge, Skills, Ability
@@ -79,7 +79,7 @@ the world.
 ### Responsibilities
 
 - Help develop and maintain *observability*/controllability of customer environments
-- Help drive zero downtime (0DD) CI/CD for our teams' infrastructure and app stack
+- Help drive zero downtime (0DD) CI/CD for our team's infrastructure and app stack
 - Work directly with support engineers, operations, product management, and end-users
 - Develop automation to improve efficiency, reliability, and simplicity of clouds
 - Take high level problems and autonomously deliver solutions supported by data
@@ -91,7 +91,7 @@ the world.
 
 The ideal candidate will have the following (**not** hard requirements):
 
-- Experience defining architecture of production systems that run at scale
+- Experience defining and operating production systems that run at scale
 - Experience developing and deploying applications at scale
 - Experience working on distributed teams
 - Experience with 0DD CI/CD on Kubernetes using Helm
