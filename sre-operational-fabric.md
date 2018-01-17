@@ -98,7 +98,7 @@ The ideal candidate will have the following (**not** hard requirements):
 - Experience with multiple cloud computing technologies (e.g. AWS, GCP, OpenStack)
 - Experience with multiple programming paradigms (i.e. declarative, functional, imperative, object-oriented)
 - A polyglot (e.g. Python, Go, Haskell)
-- Good working knowledge of network security and secure coding fundamentals (e.g. SSL, GIGO)
+- Good working knowledge of network security and secure coding fundamentals (e.g. Au, CIA, GIGO)
 - Good working knowledge of messaging technologies (e.g. RabbitMQ, Kafka)
 - Good working knowledge of document, relational, and time-series databases (e.g. Mongo, MySQL, Influx)
 - Good working knowledge of monitoring technologies (e.g. Prometheus, TICK)
