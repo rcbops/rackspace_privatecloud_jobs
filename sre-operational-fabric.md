@@ -75,7 +75,7 @@ the world.
 ### Responsibilities
 
 - Help drive the architecture, develop, and maintain observability of customer environments
-- Help drive the architecture, develop, and maintain configuration maangement of customer environments
+- Help drive the architecture, develop, and maintain configuration management of customer environments
 - Help drive zero downtime (0DD) CI/CD for our team's infrastructure and app stack
 - Work directly with support engineers, operations, product management, and end-users
 - Own automation to improve efficiency, reliability, and simplicity of clouds
@@ -92,7 +92,7 @@ The ideal candidate will have the following (**not** hard requirements):
 - Experience working on distributed teams
 - Experience with 0DD CI/CD on Kubernetes using Helm
 - Experience building declarative infrastructure (e.g. Terraform)
-- Experience instituting configuration management (e.g. Ansible Tower)
+- Experience instituting configuration management (e.g. Ansible [Tower], Puppet, Chef)
 - Experience with multiple cloud computing technologies (e.g. GCP, OpenStack)
 - Experience working in a polyglot environment (e.g. Python + Go + CoffeeScript)
 - Good working knowledge of network security and secure coding fundamentals
